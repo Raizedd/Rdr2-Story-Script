@@ -1,0 +1,39 @@
+body {
+    background-color: #111112;
+    color: white;
+    
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+.intro{
+    font-family: 'Beth Ellen', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.presents {
+    font-size: 15px;
+    font-family: 'Enriqueta', serif;
+}
+
+.REDDEADREDEMPTION {
+    font-size: 35px;
+    font-family: 'Enriqueta', serif;
+}
+
+h2.chapter1{
+    font-size: 25px;
+    font-family: 'Enriqueta', serif;
+}
+
+hr.solid{
+    border-top: 3px solid #bbb;
+}
+
+b.OutlawsBold{
+    font-size: 22px;
+    font-family: 'Enriqueta', serif;
+}
